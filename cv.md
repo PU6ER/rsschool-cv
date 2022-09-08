@@ -35,7 +35,7 @@ I am a very communicative person with a thirst for knowledge. I am reliable
 
 * __University__: MIREA — Russian Technological University, student
 * __Courses__: 
-+ FreeCodeCamp
-+ Udemy
+    * FreeCodeCamp
+    * Udemy
 ## English
 B2
