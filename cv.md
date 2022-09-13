@@ -17,7 +17,7 @@ I am a very communicative person with a thirst for knowledge. I am reliable
 * Git 
 ## Code Example 
 
-
+``` sh
     function solution(str){
     let arr = []
     for (let i = 0; i < str.length; i++){
@@ -30,6 +30,7 @@ I am a very communicative person with a thirst for knowledge. I am reliable
     }
     return arr
     }
+```
 ## Experience 
 ## Education 
 
