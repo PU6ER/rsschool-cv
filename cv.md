@@ -8,7 +8,7 @@
 * __Github__: PU6ER
 ## About me
 
-I am a very communicative person with a thirst for knowledge. I am reliable
+I am a very communicative person with a thirst for knowledge. My goal is to learn everything useful and exciting. I want to get a job at the drean company and improve my skills further.
 
 ## Skills 
 * HTML
