@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    min-width: 1600px;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.header_top{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+    color: white;
+}
